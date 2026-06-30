@@ -24,3 +24,6 @@ if (creditScrore >= 750 && income >= 55000.0 && isEmployed && debtToIncomeRatio 
     }
 
     // "John Doenot elegible for the loan"
+
+
+    // Step-1 check credit score
